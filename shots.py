@@ -1,4 +1,4 @@
-"""Render one demo window per theme for the project page (docs/img/).
+"""Render one demo window per theme for the README (docs/img/).
 
 Runs Qt off-screen with the Kvantum style, then draws the matching Aurorae frame around it.
 Needs the themes installed and Kvantum + python-pyqt6.

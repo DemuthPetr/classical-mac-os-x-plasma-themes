@@ -4,8 +4,6 @@ Ten global themes for KDE Plasma 6, one for each Mac OS X release from 10.0 Chee
 Each one includes a window decoration, Plasma style, colour scheme, Kvantum widget style, wallpaper,
 and a layout with a menu bar and dock.
 
-**Project page with screenshots: https://demuthpetr.github.io/snow-leopard-plasma/**
-
 ![Snow Leopard](docs/img/SnowLeopard-scene.jpg)
 
 Everything except the optional Mac4Lin part is generated from scratch by Python scripts
@@ -17,7 +15,7 @@ Everything except the optional Mac4Lin part is generated from scratch by Python 
 - `python` and `python-pillow`, plus `librsvg` for `rsvg-convert`
 - `kvantum` for the Aqua widgets (in Arch's `extra` repo). In System Settings › Colours & Themes ›
   Application Style, choose **kvantum**.
-- optional: `python-pyqt6`, only for regenerating the page screenshots (`shots.py`)
+- optional: `python-pyqt6`, only for regenerating the screenshots (`shots.py`)
 
 ## Snow Leopard
 
