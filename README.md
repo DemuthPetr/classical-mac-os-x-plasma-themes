@@ -1,4 +1,4 @@
-# Mac OS X themes for KDE Plasma 6
+# Classical Mac OS X Plasma Themes
 
 Ten global themes for KDE Plasma 6, one for each Mac OS X release from 10.0 Cheetah to 10.9 Mavericks.
 Each one includes a window decoration, Plasma style, colour scheme, Kvantum widget style, wallpaper,
